@@ -1,7 +1,7 @@
 let oct = 010;
 let bin = 0b10, hexa = 0x10;
 let dia, nota, cep;
-dia = 25;
+dia = 30;
 nota = 9.7;
 cep = "03350123";
 document.write (dia);//25
